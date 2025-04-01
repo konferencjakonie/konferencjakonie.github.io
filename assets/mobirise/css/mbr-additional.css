@@ -1137,25 +1137,44 @@ a {
   background-color: #fff0b0;
   color: #000000;
 }
-.cid-uGh0fUh4j5 {
+.cid-uH9l1V74hg {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-uH9l1V74hg .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-uH9jG5vuEs {
   padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-uGh0fUh4j5 img {
-  width: 120px;
-  margin: auto;
+.cid-uH9jG5vuEs .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-uGh0fUh4j5 .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  margin-bottom: 1rem;
+.cid-uH9jG5vuEs .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-@media (min-width: 992px) {
-  .cid-uGh0fUh4j5 .card {
-    max-width: 12.5%;
+@media (max-width: 991px) {
+  .cid-uH9jG5vuEs .image-wrapper {
+    margin-bottom: 1rem;
   }
+}
+.cid-uH9jG5vuEs .row {
+  flex-direction: row-reverse;
+}
+.cid-uH9jG5vuEs img {
+  width: 100%;
 }
 .cid-uGh2I5Zs67 {
   padding-top: 0rem;
