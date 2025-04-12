@@ -1274,6 +1274,11 @@ a {
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .cid-uayTq6vmr3 .embla__button {
+    display: none;
+  }
+}
 .cid-uayTq6vmr3 .embla__button:disabled {
   cursor: default;
   display: none;
